@@ -1,5 +1,5 @@
 # JSP를 활용한 개발자 커뮤니티 - 네카라쿠배
-![title](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90590478-bde0-410d-bf85-cb4dfd226842)
+![title](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90590478-bde0-410d-bf85-cb4dfd226842) <br>
 
 ## 프로젝트 소개
 * 개발자 또는 개발에 관심을 갖는 사용자들을 위한 커뮤니티입니다.
