@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
+<br>
 
 ## 📀 Function
 1. 로그인 / 로그아웃, 회원가입
@@ -55,9 +56,24 @@
 * 게시글 상세 페이지입니다.
 * 각 페이지는 생성일, 조회수, 좋아요수가 나타납니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 53 56" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/58ed9659-9460-4393-8694-c6d2d0cb08ec"><br><br><br>
 
+6. 컴파일러 화면
+* 사용자가 원하는 언어를 테스트할 수 있는 페이지입니다.
+* 스크립트로 sphere-engine API를 호출합니다.
 
 
 
+₩₩₩
+<script>SEC_HTTPS = true;
+    SEC_BASE = "compilers.widgets.sphere-engine.com";
+    (function (d, s, id) {
+        SEC = window.SEC || (window.SEC = []);
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+        js.src = (SEC_HTTPS ? "https" : "http") + "://" + SEC_BASE + "/static/sdk/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, "script", "sphere-engine-compilers-jssdk"));
+</script>
+₩₩₩
 
 
       
