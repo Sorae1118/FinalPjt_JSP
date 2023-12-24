@@ -7,6 +7,13 @@
 * 서버의 Session을 활용하여 로그인 및 로그아웃이 가능합니다.
 <br>
 
+## 팀원 구성
+|---|---|---|
+|조담진|서정호|김민지|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+<br>
+
 ## 🔨 Stacks
 - Frontend
 <div style="display:flex; flex-direction:row;">
