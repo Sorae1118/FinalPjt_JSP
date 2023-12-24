@@ -10,10 +10,10 @@
 ## 팀원 구성
 |조담진|서정호|김민지|
 |---|---|---|
-|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/87d97c7c-2aa1-4ef8-bc00-833099c6bc3c)
-|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/e1b99fe3-6218-430f-8506-2492c779e362)
-|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90bceb53-70e1-4b24-9149-9735d561c41f)
-|
+|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/87d97c7c-2aa1-4ef8-bc00-833099c6bc3c)|
+|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/e1b99fe3-6218-430f-8506-2492c779e362)|
+|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90bceb53-70e1-4b24-9149-9735d561c41f)|
+
 
 <br>
 
