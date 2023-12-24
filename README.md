@@ -10,11 +10,11 @@
 <br>
 
 ## 🔨 Stacks
+* FrontEnd
+* Backend
 <div style="display:flex; flex-direction:row;">
-    * FrontEnd
     <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    * Backend
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
