@@ -48,9 +48,12 @@
 * 회원가입 페이지입니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 54 29" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/c661e91e-81fc-409d-8efb-8c336cb2a28b"><br><br><br>
 
 4. 게시글 화면
-* 여러 게시물을 확인할 수 있는 페이지입니다.
+* 여러 게시글을 확인할 수 있는 페이지입니다.
 * 가장 최근 게시물부터 보이도록 DB에서 호출합니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 53 16" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/e92ab667-5e37-4d04-82e1-f3189a74a57f"><br><br><br>
 
+5. 상세글 화면
+* 게시글 상세 페이지입니다.
+* 각 페이지는 생성일, 조회수, 좋아요수가 나타납니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 53 56" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/58ed9659-9460-4393-8694-c6d2d0cb08ec"><br><br><br>
 
 
 
