@@ -2,9 +2,9 @@
 ![title](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90590478-bde0-410d-bf85-cb4dfd226842)
 
 ## 프로젝트 소개
-* 의류 매장에서 사용하는 POS기 프로그램을 참고하여 프로젝트를 진행했습니다.
-* 자바 Swing 라이브러리를 활용하여 UI를 제작하였습니다.
-* PC에 바코드 스캐너를 연결하고, 바코드를 스캔하면 상품 정보가 입력됩니다.
+* 개발자 또는 개발에 관심을 갖는 사용자들을 위한 커뮤니티입니다.
+* 커뮤니티의 기본적인 요소인 게시물의 기능을 다룹니다.
+* 서버의 Session을 활용하여 로그인 및 로그아웃이 가능합니다.
 <br>
 
 ## 🔨 Stacks
@@ -28,43 +28,21 @@
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
 
-
-
 ## 📀 Function
-1. 로그인 / 로그아웃 / 회원가입
-2. 바코드를 찍어서 상품을 조회하고 판매
-3. 판매한 기록들을 당일 또는 기간별로 조회
-4. 상품정보를 관리할 수 있음 (입력, 조회, 수정, 삭제)
-5. 현재 시간 출력
+1. 로그인 / 로그아웃
+2. 게시글과 게시글 내의 댓글 기능
+3. 
+4. 컴파일러 위젯 [sphere-engine](https://docs.sphere-engine.com/compilers/widget/integration)
 <br>
 
 ## 📺 화면구성
-### 로그인 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/88ce3c06-4b4b-4ed0-8af7-729f7274eefd)
-<br>
 
-### 회원가입 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/1f1af8c4-feee-462a-b3e1-22801b500036)
-<br>
+1. 메인 화면
+    * 메인 화면입니다. 헤더부분의 원하는 카테고리로 이동할 수 있습니다.
+    * 스크롤을 내리면 해당 카테고리의 게시글로 바로가기가 됩니다.
+    * 세션정보에 따라 로그인, 로그아웃을 선택할 수 있습니다. <img width="1440" alt="스크린샷 2023-12-23 오후 7 52 48" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/79056a65-759a-446b-9063-232107867754">
 
-### 메인 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/aae5259d-d6a9-43f9-949c-f0d03be0ee20)
-<br>
+      
 
-### 상품 판매 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/129232a5-d2b2-4d06-be38-4b42e64a47b6)
-<br>
-
-### 상세 조회 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/29835cd5-1069-40cd-b26e-b226f092e76b)
-<br>
-
-### 기간별 조회 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/c9864f4f-1aee-4c6b-b53e-1d6a09460fbc)
-<br>
-
-### 상품 관리 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/36a855d2-f1dc-4f88-8fae-4319efa445a3)
-<br>
 
 
