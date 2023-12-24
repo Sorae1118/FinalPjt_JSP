@@ -12,11 +12,24 @@
 ## 🔨 Stacks
 - FrontEnd
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br>
+</div>
+
 - Backend
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+</div>
+
+- Tools & Environment
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</div>
 
 
 
