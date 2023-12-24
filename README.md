@@ -10,13 +10,14 @@
 <br>
 
 ## 🔨 Stacks
-* FrontEnd
-* Backend
+- FrontEnd
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
+- Backend
+
 
 
 ## 📀 Function
