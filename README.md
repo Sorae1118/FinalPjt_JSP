@@ -37,13 +37,23 @@
 ## 📺 화면구성
 
 1. 메인 화면
-* 메인 화면입니다. 헤더부분의 원하는 카테고리로 이동할 수 있습니다.
+* 메인 페이지입니다. 헤더부분의 원하는 카테고리로 이동할 수 있습니다.
 * 스크롤을 내리면 해당 카테고리의 게시글로 바로가기가 됩니다.   
-* 세션정보에 따라 로그인, 로그아웃을 선택할 수 있습니다.   <img width="1440" alt="스크린샷 2023-12-23 오후 7 52 48" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/79056a65-759a-446b-9063-232107867754"> <img width="1440" alt="스크린샷 2023-12-23 오후 7 52 59" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/7aee07ac-463a-403f-9cc0-5fd13ccf6a58"><br><br><br>
+* 세션 정보에 따라 로그인, 로그아웃 UI가 달라집니다.   <img width="1440" alt="스크린샷 2023-12-23 오후 7 52 48" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/79056a65-759a-446b-9063-232107867754"> <img width="1440" alt="스크린샷 2023-12-23 오후 7 52 59" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/7aee07ac-463a-403f-9cc0-5fd13ccf6a58"><br><br><br>
 
 2. 로그인 화면
-* 로그인 화면입니다.
-* <img width="1440" alt="스크린샷 2023-12-23 오후 7 54 14" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/2c7e5e97-2bca-4d4d-a0df-7c6ad0933ddf">
+* 로그인 페이지입니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 54 14" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/2c7e5e97-2bca-4d4d-a0df-7c6ad0933ddf"><br><br><br>
+
+3. 회원가입 화면
+* 회원가입 페이지입니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 54 29" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/c661e91e-81fc-409d-8efb-8c336cb2a28b"><br><br><br>
+
+4. 게시글 화면
+* 여러 게시물을 확인할 수 있는 페이지입니다.
+* 가장 최근 게시물부터 보이도록 DB에서 호출합니다.<img width="1440" alt="스크린샷 2023-12-23 오후 7 53 16" src="https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/e92ab667-5e37-4d04-82e1-f3189a74a57f"><br><br><br>
+
+
+
+
 
 
 
