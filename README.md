@@ -58,11 +58,7 @@
 
 6. 컴파일러 화면
 * 사용자가 원하는 언어를 테스트할 수 있는 페이지입니다.
-* 스크립트로 sphere-engine API를 호출합니다.
-
-
-
-₩₩₩
+* 스크립트로 sphere-engine API를 호출합니다. ```
 <script>SEC_HTTPS = true;
     SEC_BASE = "compilers.widgets.sphere-engine.com";
     (function (d, s, id) {
@@ -73,7 +69,11 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, "script", "sphere-engine-compilers-jssdk"));
 </script>
-₩₩₩
+```
+
+
+
+
 
 
       
