@@ -12,6 +12,7 @@
 |---|---|---|
 |![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/87d97c7c-2aa1-4ef8-bc00-833099c6bc3c)|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/e1b99fe3-6218-430f-8506-2492c779e362)|![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90bceb53-70e1-4b24-9149-9735d561c41f)|
 |웹디자인, API|필수 기능 구현|DB 설계 및 구축|
+|[Sorae1118](https://github.com/Sorae1118)|[jeongho77](https://github.com/jeongho77)|[minso00](https://github.com/minso00)|
 
 <br>
 
