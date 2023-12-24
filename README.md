@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=JSP를%20활용한%20개발자%20커뮤니티&fontSize=35&fontAlignY=40&&height=250)
-
-![image](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/dec99224-9679-4396-b6fe-55fe3944e37d)
 ![title](https://github.com/Sorae1118/FinalPjt_JSP/assets/115053276/90590478-bde0-410d-bf85-cb4dfd226842)
 
 ## 프로젝트 소개
